@@ -3200,6 +3200,7 @@ video {
 
   .lg\:col-span-8 {
     grid-column: span 8 / span 8;
+    margin-top: -150px;
   }
 
   .lg\:my-8 {
